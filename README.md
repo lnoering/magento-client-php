@@ -15,7 +15,7 @@ by adding it as a dependency to your project's composer.json file.
 ```json
 {
     "require": {
-        "cpliakas/magento-client-php": "*"
+        "lnoering/magento-client-php": "*"
     }
 }
 ```
